@@ -1,2 +1,2 @@
 # dio-azure-2
-Projeto para mandar ao Azure AI da DIO
+Muito interessante a Azure AI, quero cada dia mais adentrar ao mundo IA
